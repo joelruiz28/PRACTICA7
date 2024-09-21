@@ -19,7 +19,7 @@ body{
 #encabezado{
     background:whitesmoke;
     height: 240px;
-    text-align: center;
+    
     background-image: url("../Img/esfera.jpeg");
     background-repeat: no-repeat;
     background-size: 180px 180px;
